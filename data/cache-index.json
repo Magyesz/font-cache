@@ -22,8 +22,8 @@
         {
             "id": "vc",
             "name": "Vice City",
-            "size": 387973598,
-            "sha256": "7ab34169a381b85f451f2de572a8d17d0afa56d557edd6d4d4497a3e85c07d1f",
+            "size": 387975646,
+            "sha256": "9c1faf60dfd1f52fe9e4ac80f93162967cdda75c663fed22b01736915f072840",
             "color": "#F48FC0",
             "url": "https://github.com/Magyesz/font-cache/releases/download/v2.2.0/fc-5.2.bin",
             "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.2.png",
