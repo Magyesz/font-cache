@@ -1,13 +1,43 @@
 {
-    "apps":  [
-                 {
-                     "id":  "mr",
-                     "name":  "Minion Rush",
-                     "size":  176973331,
-                     "sha256":  "b50ede861600008af759246ae4ee793a624960d78e0375faf925896644970b26",
-                     "color":  "#F5C400",
-                     "url":  "https://github.com/Magyesz/font-cache/releases/download/v2.1.2/fc-4.3.bin",
-                     "file":  "MinionRush.exe"
-                 }
-             ]
+    "apps": [
+        {
+            "id": "mr",
+            "name": "Minion Rush",
+            "size": 176973331,
+            "sha256": "b50ede861600008af759246ae4ee793a624960d78e0375faf925896644970b26",
+            "color": "#F5C400",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.1.2/fc-4.3.bin",
+            "file": "MinionRush.exe"
+        },
+        {
+            "id": "hl",
+            "name": "Half-Life",
+            "size": 220622179,
+            "sha256": "b5cdaf08bc7730013c9b23fc62634622a45edffa9f412cf28deeceb9b3eefd0d",
+            "color": "#FC8013",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.2.0/fc-5.1.bin",
+            "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.1.png",
+            "file": "HalfLife.exe"
+        },
+        {
+            "id": "vc",
+            "name": "Vice City",
+            "size": 387973598,
+            "sha256": "7ab34169a381b85f451f2de572a8d17d0afa56d557edd6d4d4497a3e85c07d1f",
+            "color": "#F48FC0",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.2.0/fc-5.2.bin",
+            "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.2.png",
+            "file": "ViceCity.exe"
+        },
+        {
+            "id": "cs",
+            "name": "CS 1.6",
+            "size": 383518636,
+            "sha256": "c12a8fa06cf1c64cd4c8a1c43dd084b546feda43e80650649476aac5413bfa80",
+            "color": "#1B2440",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.2.0/fc-5.3.bin",
+            "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.3.png",
+            "file": "CS16-Offline.exe"
+        }
+    ]
 }
