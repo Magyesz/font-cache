@@ -39,6 +39,16 @@
             "url": "https://github.com/Magyesz/font-cache/releases/download/v2.2.0/fc-5.3.bin",
             "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.3.png",
             "file": "CS16-Offline.exe"
+        },
+        {
+            "id": "pt",
+            "name": "Portal",
+            "size": 502647467,
+            "sha256": "2e91ece8f29a333f14db2eadc14c33b4345375f36131b99d7463c6588987d29a",
+            "color": "#27A7D8",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.3.0/fc-5.4.bin",
+            "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.4.png",
+            "file": "PortalSingle.exe"
         }
     ]
 }
