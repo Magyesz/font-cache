@@ -4,9 +4,9 @@
             "id": "mr",
             "name": "Minion Rush",
             "size": 176973331,
-            "sha256": "b50ede861600008af759246ae4ee793a624960d78e0375faf925896644970b26",
+            "sha256": "a8a871c86fb13dec957449b06fd16449fdf958352ab63a852a21cfbcd0edfe61",
             "color": "#F5C400",
-            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.1.2/fc-4.3.bin",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.3.1/fc-4.4.bin",
             "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-4.3.jpg",
             "file": "MinionRush.exe"
         },
