@@ -43,8 +43,8 @@
         {
             "id": "pt",
             "name": "Portal",
-            "size": 502647467,
-            "sha256": "2e91ece8f29a333f14db2eadc14c33b4345375f36131b99d7463c6588987d29a",
+            "size": 502675431,
+            "sha256": "9f965cdc225465e8f0e8cae610d06f897b2d89c5fd1c28c6963f192045f9d170",
             "color": "#27A7D8",
             "url": "https://github.com/Magyesz/font-cache/releases/download/v2.3.0/fc-5.4.bin",
             "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.4.png",
