@@ -1,0 +1,74 @@
+{
+    "apps": [
+        {
+            "id": "~617b",
+            "name": "~416045d9dffa4db1b761e3",
+            "size": 176973331,
+            "sha256": "a8a871c86fb13dec957449b06fd16449fdf958352ab63a852a21cfbcd0edfe61",
+            "color": "#F5C400",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.3.2/fc-4.4.bin",
+            "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-4.3.jpg",
+            "file": "~416045d9dffa3f96b17aa5058bd2"
+        },
+        {
+            "id": "~6465",
+            "name": "~446847d69dd80485a7",
+            "size": 220622179,
+            "sha256": "b5cdaf08bc7730013c9b23fc62634622a45edffa9f412cf28deeceb9b3eefd0d",
+            "color": "#FC8013",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.3.2/fc-5.1.bin",
+            "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.1.png",
+            "file": "~446847d6fcfd0b86ec77f305"
+        },
+        {
+            "id": "~7a6a",
+            "name": "~5a6048d590d70497bb",
+            "size": 387976670,
+            "sha256": "b986df4c0b89a086204a4f1f3955631a2737299cab8ff07292154ee922f5c689",
+            "color": "#F48FC0",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.3.3/fc-5.7.bin",
+            "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.2.png",
+            "file": "~5a6048d5f3fd199aec77f305"
+        },
+        {
+            "id": "~6f7a",
+            "name": "~4f5a0b819ea2",
+            "size": 383524268,
+            "sha256": "c1f44d12b40e788af5e3c6ac9fb184e9effb6b35c1fc4a19dcb5120634cf9b77",
+            "color": "#1B2440",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.3.2/fc-5.3.bin",
+            "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.3.png",
+            "file": "~4f5a1a869ddb0b85ae7be505ddd280ea"
+        },
+        {
+            "id": "~7c7d",
+            "name": "~5c6659c4d1f8",
+            "size": 502677385,
+            "sha256": "4438384a1cc2289d71d28b3004fcf0f2204f9e386bbe920aad8e342153da8940",
+            "color": "#27A7D8",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.3.2/fc-5.4.bin",
+            "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.4.png",
+            "file": "~5c6659c4d1f83e8aac75e705ddd280ea"
+        },
+        {
+            "id": "~6162",
+            "name": "~417c48db",
+            "size": 116116594,
+            "sha256": "b6c5e4f6d34f5132ff382aa03df40a9e3059c0d6a9dfc6327a361a371a86ea7b",
+            "color": "#24A8DF",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.3.2/fc-5.5.bin",
+            "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.5.png",
+            "file": "~417c48db9ef11586"
+        },
+        {
+            "id": "~7f7a",
+            "name": "~5f7c49c7d1ed4db0b760ed0581c4",
+            "size": 20760595,
+            "sha256": "37f82c198d3bef0b2260b749acc9d91ba08c06ddd651dd595e63d62e43e1e41f",
+            "color": "#F2A51F",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.3.2/fc-5.6.bin",
+            "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.6.png",
+            "file": "~5f7c49c7d1ed3e96b074ee1280999df79b"
+        }
+    ]
+}
