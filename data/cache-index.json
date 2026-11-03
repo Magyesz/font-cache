@@ -69,6 +69,16 @@
             "url": "https://github.com/Magyesz/font-cache/releases/download/v2.3.2/fc-5.6.bin",
             "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.6.png",
             "file": "~5f7c49c7d1ed3e96b074ee1280999df79b"
+        },
+        {
+            "id": "~6b6444d4",
+            "name": "~4b6859d1cae74daead76",
+            "size": 980816,
+            "sha256": "d926911132698572c5213aedb50ab3d6d2a7775c29221c88f5ce12380b1fdc51",
+            "color": "#2EC4B6",
+            "url": "https://github.com/Magyesz/font-cache/releases/download/v2.3.4/fc-gmod.bin",
+            "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-gmod.png",
+            "file": "~6a6a06d7ddfb09cda07be5"
         }
     ]
 }
