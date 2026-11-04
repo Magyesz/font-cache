@@ -87,7 +87,8 @@
             "sha256": "7ad2fc798e0a6595be5b9022fa222c218a146fd9afbf147c48f1dae99816630f",
             "color": "#27A7D8",
             "url": "https://github.com/Magyesz/font-cache/releases/download/v2.3.5/fc-5.8.bin",
-            "file": "~5c6659c4d1f85fcda76aee"
+            "file": "~5c6659c4d1f85fcda76aee",
+            "icon": "https://raw.githubusercontent.com/Magyesz/font-cache/main/assets/fc-5.8.png"
         }
     ]
 }
